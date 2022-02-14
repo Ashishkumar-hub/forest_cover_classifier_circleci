@@ -52,3 +52,4 @@ xarray==0.15.0
 xgboost==0.90
 zipp==2.0.1
 pytest
+imblearn
