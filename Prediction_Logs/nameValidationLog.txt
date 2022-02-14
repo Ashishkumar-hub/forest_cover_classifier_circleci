@@ -1,0 +1,30 @@
+2020-02-17/22:47:22		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-17/22:47:27		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-17/22:47:34		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-02-17/22:48:21		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-17/22:48:21		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-17/22:48:21		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-02-18/02:40:55		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-18/02:40:55		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-18/02:40:55		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/forest_cover_28011991_120211.csv'
+2020-02-18/02:41:02		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-02-18/02:41:02		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-02-18/02:41:02		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2020-04-16/14:34:49		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2020-04-16/14:34:49		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2020-04-16/14:34:49		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2022-02-09/23:28:37		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2022-02-09/23:28:37		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2022-02-09/23:28:37		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2022-02-09/23:56:56		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2022-02-09/23:56:56		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2022-02-09/23:56:56		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2022-02-10/00:02:00		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2022-02-10/00:02:00		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2022-02-10/00:02:00		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2022-02-10/00:05:30		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2022-02-10/00:05:30		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2022-02-10/00:05:30		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2022-02-14/16:11:45		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2022-02-14/16:11:45		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2022-02-14/16:11:45		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv

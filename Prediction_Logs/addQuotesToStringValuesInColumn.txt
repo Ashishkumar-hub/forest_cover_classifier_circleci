@@ -1,0 +1,1 @@
+2020-02-17/22:47:55		Data Transformation failed because:: 'class'
