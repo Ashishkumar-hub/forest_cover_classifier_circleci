@@ -46,7 +46,7 @@ statsmodels==0.11.0
 Theano==1.0.4
 tqdm==4.42.1
 tzlocal==2.0.0
-Werkzeug==0.16.1
+Werkzeug
 wincertstore==0.2
 xarray==0.15.0
 xgboost==0.90
