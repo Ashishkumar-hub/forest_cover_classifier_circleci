@@ -27,9 +27,9 @@ jobs:
           paths:
             - "venv"
       - run:
-          command: |
-            . venv/bin/activate
-            python -m pytest -v tests/test_script.py
+          #command: |
+            #. venv/bin/activate
+            #python -m pytest -v tests/test_script.py
       - store_artifacts:
           path: test-reports/
           destination: tr1
