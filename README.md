@@ -105,14 +105,4 @@ Data Insertion in Database
 ![image](https://user-images.githubusercontent.com/55132850/153413089-d081bc61-6cff-404c-bd5b-1b281991cf5a.png)
 
 ## Deployment
-The deployment of the project is done on GCP and Azure.
-
-![Screenshot (169)](https://user-images.githubusercontent.com/55132850/153412682-2940664e-cfba-4cb2-8102-a5b63203ad07.png)
-
-![Screenshot (170)](https://user-images.githubusercontent.com/55132850/153412700-f79e9aa2-42cd-41a8-94df-e729840227b8.png)
-
-![Screenshot (171)](https://user-images.githubusercontent.com/55132850/153412815-97329a29-f582-44c5-a4e4-fdb2dc961c56.png)
-
-[Forest Cover Classfier GCP](https://forestcoverclassfier.el.r.appspot.com)                                                      
-[Forest Cover Classfier AZURE](https://forestcoverclassfier.azurewebsites.net)                                                      
-
+The deployment of the project is done on Heroku
