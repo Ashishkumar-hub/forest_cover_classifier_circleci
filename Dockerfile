@@ -7,7 +7,6 @@ RUN apt-get update -y && \
     apt-get install -y libx11-dev libgtk-3-dev
 
 
-
 COPY ./requirements.txt /requirements.txt
 
 WORKDIR /
@@ -20,4 +19,4 @@ COPY . /
 
 ENTRYPOINT [ "python3" ]
 
-CMD [ "app.py" ]
+CMD [ "main.py" ]
