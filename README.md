@@ -110,4 +110,4 @@ Data Insertion in Database
 
 ## Deployment
 The deployment of the project is done on Heroku
-[Forest Copver Classifier](https://forestcover.herokuapp.com/)
+[Forest Cover Classifier](https://forestcover.herokuapp.com/)
