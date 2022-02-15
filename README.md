@@ -104,5 +104,10 @@ Data Insertion in Database
 
 ![image](https://user-images.githubusercontent.com/55132850/153413089-d081bc61-6cff-404c-bd5b-1b281991cf5a.png)
 
+## CircleCI
+
+![Screenshot (219)](https://user-images.githubusercontent.com/55132850/154082514-8ee08b0f-911a-4bdc-9961-183363f7318c.png)
+
 ## Deployment
 The deployment of the project is done on Heroku
+[Forest Copver Classifier](https://forestcover.herokuapp.com/)
